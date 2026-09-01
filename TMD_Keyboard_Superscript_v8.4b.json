@@ -1,0 +1,51 @@
+{
+  "name": "TMD_keyboard_II",
+  "version": "0.8.4b",
+  "author": "Tours Municipal Data (TMD) – Transcrire l'écrit délibératif municipal",
+  "homepage": "https://renumar.univ-tours.fr/publication/tours-municipal-data-tmd-transcrire-lecrit-deliberatif-municipal/",
+  "responsibility": {
+    "author": "David Nivarlet <david.nivarlet@univ-tours.fr>",
+    "principal_investigator": "David Rivaud <david.rivaud@univ-tours.fr>",
+    "project_coordinator": "Florence Alazard <florence.alazard@univ-tours.fr>"
+  },
+  "affiliation": [
+      "Centre d'Études Supérieures de la Renaissance, UMR 7323, CNRS – Université de Tours",
+      "BVH – Bibliothèques virtuelles humanistes",
+      "RENUMAR – REssources NUMériques pour l’édition des Archives de la Renaissance"
+  ],
+  "funding": "Equipex+ Biblissima+, Programme « Investissements d'avenir intégré à France 2030 », ANR-21-ESRE-0005, 2021-2029",
+  "license": "Creative Commons Attribution - Partage dans les mêmes conditions 4.0 (CC BY 4.0)",
+  "date": "2026-06-11",
+
+  "characters": [
+    {"row": 0, "column": 0, "character": "\u0303", "class": "titulus", "label": "combining tilde", "keyboard_code": null},
+    {"row": 0, "column": 1, "character": "\u204A", "class": "abbreviation", "label": "tironian sign", "keyboard_code": null},
+    {"row": 0, "column": 2, "character": "\uA76F", "class": "abbreviation", "label": "<con/com> sign", "keyboard_code": null},
+    {"row": 0, "column": 3, "character": "\uA770", "class": "abbreviation", "label": "superscript <con/com> sign", "keyboard_code": null},
+    {"row": 0, "column": 4, "character": "\uA76D", "class": "abbreviation", "label": "final truncation", "keyboard_code": null},
+
+    {"row": 1, "column": 0, "character": "\u0111", "class": "abbreviation", "label": "<d> truncation", "keyboard_code": null},
+    {"row": 1, "column": 1, "character": "\uA751", "class": "abbreviation", "label": "<par/per> sign", "keyboard_code": null},
+    {"row": 1, "column": 2, "character": "\uA753", "class": "abbreviation", "label": "<pro> sign", "keyboard_code": null},
+    {"row": 1, "column": 3, "character": "\uA757", "class": "abbreviation", "label": "<que> sign", "keyboard_code": null},
+    {"row": 1, "column": 4, "character": "\u00DF", "class": "abbreviation", "label": "<s> truncation", "keyboard_code": null},
+
+    {"row": 2, "column": 0, "character": "\u1D43", "class": "superscript", "label": "superscript a", "keyboard_code": null},
+    {"row": 2, "column": 1, "character": "\u1D9C", "class": "superscript", "label": "superscript c", "keyboard_code": null},
+    {"row": 2, "column": 2, "character": "\u1D49", "class": "superscript", "label": "superscript e", "keyboard_code": null},
+    {"row": 2, "column": 3, "character": "\u2071", "class": "superscript", "label": "superscript i", "keyboard_code": null},
+    {"row": 2, "column": 4, "character": "\u1D50", "class": "superscript", "label": "superscript m", "keyboard_code": null},
+
+    {"row": 3, "column": 0, "character": "\u207F", "class": "superscript", "label": "superscript n", "keyboard_code": null},
+    {"row": 3, "column": 1, "character": "\u1D52", "class": "superscript", "label": "superscript o", "keyboard_code": null},
+    {"row": 3, "column": 2, "character": "\u02B3", "class": "superscript", "label": "superscript r", "keyboard_code": null},
+    {"row": 3, "column": 3, "character": "\u1D57", "class": "superscript", "label": "superscript t", "keyboard_code": null},
+    {"row": 3, "column": 4, "character": "\u02E3", "class": "superscript", "label": "superscript x", "keyboard_code": null},
+
+    {"row": 4, "column": 0, "character": "\u002F", "class": "punctuation", "label": "virgula", "keyboard_code": null},
+    {"row": 4, "column": 1, "character": "\u00B7", "class": "punctuation", "label": "interpunctus", "keyboard_code": null},
+    {"row": 4, "column": 2, "character": "\u019A", "class": "currency", "label": "livre tournois", "keyboard_code": null},
+    {"row": 4, "column": 3, "character": "\u27E6", "class": "markup", "label": "left double square bracket", "keyboard_code": null},
+    {"row": 4, "column": 4, "character": "\u27E7", "class": "markup", "label": "right double square bracket", "keyboard_code": null}
+  ]
+}
