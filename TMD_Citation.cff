@@ -1,0 +1,44 @@
+cff-version: 1.0.0
+title: "Tours Municipal Data (TMD) — Transcrire l’écrit délibératif municipal"
+type: dataset
+date-released: 2026-09-01
+
+authors:
+  - family-names: "Nivarlet"
+    given-names: "David"
+    email: "david.nivarlet@univ-tours.fr"
+    affiliation: "Centre d'Études Supérieures de la Renaissance, UMR 7323, CNRS – Université de Tours"
+  - family-names: "Rivaud"
+    given-names: "David"
+    email: "david.rivaud@univ-tours.fr"
+    affiliation: "Centre d'Études Supérieures de la Renaissance, UMR 7323, CNRS – Université de Tours"
+
+contributors:
+  - family-names: "Leroy"
+    given-names: "Clement"
+    email: "clement.leroy@univ-tours.fr"
+    affiliation: "Centre d'Études Supérieures de la Renaissance, UMR 7323, CNRS – Université de Tours"
+  - family-names: "Alazard"
+    given-names: "Florence"
+    email: "florence.alazard@univ-tours.fr"
+    affiliation: "Centre d'Études Supérieures de la Renaissance, UMR 7323, CNRS – Université de Tours"
+
+repository-code: "https://github.com/Rivauddavid/Modele-de-transcription-pour-ecriture-manuscrite-XVe.git"
+
+license: "CC-BY-4.0"
+
+funding:
+  - statement: >
+      Equipex+ Biblissima+, Programme « Investissements d'avenir intégré
+      à France 2030 », ANR-21-ESRE-0005, 2021-2029
+
+preferred-citation:
+  type: dataset
+  title: "Tours Municipal Data (TMD) – Transcrire l'écrit délibératif municipal"
+  authors:
+    - family-names: "Nivarlet"
+      given-names: "David"
+    - family-names: "Rivaud"
+      given-names: "David"
+
+  year: 2026
