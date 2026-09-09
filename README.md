@@ -1,17 +1,18 @@
 # Modele-de-transcription-pour-ecriture-manuscrite-XVe
 Modèle de transcription pour ecriture manuscrite XVe issu du projet TMD (Tours municipal Data, 2026). 
-I. Description du corpus
+Description du corpus
 
-Extraits des délibérations du corps de ville de Tours, pour la période 1511- 1520:
+Extraits des délibérations du corps de ville de Tours, pour la période 1423-1425 :
 
--	Archives municipales de Tours, BB, reg. 14 (FRAC037261_BBR_014), f.  (images) ;
+-	Archives municipales de Tours, BB, reg. 2 (FRAC037261_BBR_002), f. 99-130v (63 images) ;
+-	Archives municipales de Tours, BB, reg. 3 (FRAC037261_BBR_003), f. 1-46 (89 images).
 
-Le corpus sélectionné entre dans la catégorie des documents d’archives antérieurs a 1600, c’est-à-dire avec une écriture très peu normalisée, avec de nombreuses abréviations polysémiques, et une paléographie ancienne, parfois complexe (gothique cursive). 
-Il s’agit plus particulièrement ici des délibérations du corps de ville de Tours, ensemble de textes qui présentent, pour une succession de dates rapprochées (1511-1512), les noms des personnes présentes aux assemblées, les sujets  de discussion, les débats et les décisions qui sont prises. 
-Construit par séance d’assemblées municipales, le document n’est pas plus précisément structuré de manière uniforme, même si se met en place progressivement une sorte de présentation (date, direction et lieu/ noms des présents suivant un certain ordre (religieux puis laïcs), puis ordre du jour, présentation des avis de tous les présents et relevé de décision) . 
+Le corpus sélectionné entre dans la catégorie des documents d’archives antérieurs a 1600, c’est-à-dire avec une écriture très peu normalisée, avec de nombreuses abréviations polysémiques, et une paléographie ancienne, parfois complexe. 
+Il s’agit plus particulièrement ici des délibérations du corps de ville de Tours, ensemble de textes qui présentent, pour une succession de dates rapprochées (1420-1422), les noms des personnes présentes aux assemblées, les sujets  de discussion et les décisions qui sont prises. 
+Construit par séance d’assemblées municipales, le document n’est pas plus précisément structuré de manière uniforme, même si se met en place progressivement une sorte de présentation (date, direction et lieu/ noms des présents suivant un certain ordre (religieux puis laïcs / délibérations, un sujet par paragraphe). 
 La série documentaire va  dans son ensemble de 1407 à 1789, est construite en volumes qui peuvent avoir une ou plusieurs mains.  
-Le sous corpus choisi ici relève d’une même main, celui d’un des clercs de la municipalité de Tours. On peut penser qu’il s’agit d’une remise au propre de notes prises en conseil municipal, même si les quelques rayures et corrections, si l’énumération linéaire des avis montrent que leur enregistrement a pu se faire directement au cours du conseil municipal. 
-La main est assez stable sur la centaine de pages sélectionnée. Les pages d’une autre main ont été enlevé du corpus pour réaliser l’entrainement automatique.
+Le sous corpus choisi ici relève d’une même main, celui d’un notaire tourangeau M. Hardouin, qui est aussi greffier-notaire du corps de ville, et qui prend en note ces procès verbaux d’assemblées municipales. Il s’agit probablement d’une remise au propre de notes prises en conseil municipal, même si les nombreuses rayures et corrections montrent qu’une certaine hésitation marque encore l’écrit et l’enregistrement des délibérations. Cette hésitation demeure cependant limitée et correspond plutôt à une phase de relecture du notaire. 
+La main est assez stable sur la centaine de pages sélectionnée. 
 
 II. Projet TMD 
 
@@ -25,7 +26,7 @@ Toutes les transcriptions ont été corrigées manuellement afin d’établir la
 
 IV. Modèles de transcription
 
-La transcription des registres de délibérations du corps de ville de Tours a été réalisée en deux étapes. Une première transcription automatique a été produite à l’aide de CATMuS Medieval 1.6.0 (https://zenodo.org/records/15030337), puis corrigée manuellement afin de constituer une vérité de terrain (ground truth), laquelle a ensuite été utilisée pour entrainer un nouveau modèle de transcription, intitulé : TMD_XVI_14.mlmodel.
+La transcription des registres de délibérations du corps de ville de Tours a été réalisée en deux étapes. Une première transcription automatique a été produite à l’aide de CATMuS Medieval 1.6.0 (https://zenodo.org/records/15030337), puis corrigée manuellement afin de constituer une vérité de terrain (ground truth), laquelle a ensuite été utilisée pour entrainer un nouveau modèle de transcription, intitulé : TMD_XV_ha.mlmodel.
 
 V. Logiciel utilisé
 
