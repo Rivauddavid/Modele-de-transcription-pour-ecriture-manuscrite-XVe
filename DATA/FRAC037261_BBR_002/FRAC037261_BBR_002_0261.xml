@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-02-10T11:33:18.356619+00:00</Created>
+        <LastChange>2026-07-22T15:27:17.758005+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAC037261_BBR_002_0261.jpg" imageWidth="1772" imageHeight="2444">
+    <TextRegion id="eSc_textblock_302704fb"  custom="structure {type:text;}">
+      <Coords points="1217,97 1245,124 1234,150 992,156 988,160 964,160 964,156 748,145 737,108 754,92"/>
+      <TextLine id="eSc_line_dabc6610" custom="structure {type:HeadingLine;}">
+        <Coords points="1216,97 1215,97 1213,97 1147,104 1136,96 1133,96 1120,96 1106,96 1093,95 1079,95 1065,95 1052,95 1050,95 1041,103 1008,95 998,95 984,93 970,93 957,93 943,93 930,93 916,93 902,93 893,93 748,99 740,114 740,122 740,147 757,141 783,153 784,153 786,153 787,153 816,141 826,152 826,153 828,153 829,153 851,154 852,154 854,154 897,142 946,156 947,156 949,156 950,156 951,156 969,143 1022,143 1042,157 1044,157 1045,157 1046,157 1087,150 1147,158 1148,158 1150,158 1165,150 1174,158 1175,158 1177,158 1178,158 1179,158 1203,146 1230,158 1234,128 1234,115 1228,109"/>
+        <Baseline points="740,122 1234,128"/>
+        <TextEquiv>
+          <Unicode>poʳ lappointꝭ de michel goupil</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_80f1608e"  custom="structure {type:MarginTextZone;}">
+      <Coords points="210,190 221,270 167,291 92,275 92,206 109,190"/>
+      <TextLine id="eSc_line_bf738c0f" custom="structure {type:default;}">
+        <Coords points="237,227 204,191 150,192 149,192 148,192 133,192 131,192 130,192 128,192 92,218 92,219 93,256 97,290 105,282 124,298 124,300 126,300 127,300 128,300 158,298 160,298 161,298 161,297 211,280 215,272 238,258 237,250 237,248"/>
+        <Baseline points="93,256 215,252"/>
+        <TextEquiv>
+          <Unicode>lrẽ ftẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5f08751a"  custom="structure {type:text;}">
+      <Coords points="1344,217 1527,206 1657,233 1679,260 1695,357 1663,494 1674,672 1641,758 1695,873 1647,923 1663,988 1641,1124 1657,1329 1636,1399 1171,1405 964,1437 374,1405 353,987 363,190 901,178 901,197 1076,197 1076,188"/>
+      <TextLine id="eSc_line_0bcdbf96" custom="structure {type:default;}">
+        <Coords points="1533,207 1492,207 1405,221 1301,211 1285,219 1266,207 1252,207 1240,217 1036,217 1020,201 902,213 806,193 655,203 611,191 452,187 372,189 370,248 549,264 641,254 655,266 771,256 918,270 983,262 1154,274 1260,264 1297,276 1655,272 1657,254 1653,234"/>
+        <Baseline points="374,234 593,233 954,248 1659,256"/>
+        <TextEquiv>
+          <Unicode>Item celui Iour est uenu auđ tablier michellet goupil nagaires Receũ du duche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84761f4b" custom="structure {type:default;}">
+        <Coords points="1672,260 843,248 841,248 839,248 820,256 370,240 370,272 368,289 519,291 529,301 529,303 531,303 533,303 535,303 537,303 568,295 590,305 592,305 594,305 666,295 810,309 812,309 926,301 959,311 961,311 1228,313 1230,313 1232,313 1234,313 1246,303 1311,315 1313,315 1525,309 1676,319 1680,293 1678,279 1672,260"/>
+        <Baseline points="372,274 651,276 1095,294 1682,295"/>
+        <TextEquiv>
+          <Unicode>de touraine / disant que les esleuz de lađ uille / et pierre binet Receur̃ lanñ derr̃ pasß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_574204ab" custom="structure {type:default;}">
+        <Coords points="370,329 1678,368 1682,338 1680,307 372,283 372,311"/>
+        <Baseline points="374,313 685,317 1385,339 1683,340"/>
+        <TextEquiv>
+          <Unicode>des Reueñ de lađ uille le auoient fait execut̃ de la sõme de XIIˣˣ. ƚ tꝭ pour le reste</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0560cb48" custom="structure {type:default;}">
+        <Coords points="368,356 366,374 474,384 476,384 541,374 558,386 560,386 562,386 564,386 641,376 875,378 902,393 904,393 1018,395 1020,395 1077,384 1108,397 1110,397 1112,397 1297,389 1313,401 1315,401 1317,401 1319,401 1411,393 1423,403 1425,403 1427,403 1429,403 1539,395 1554,405 1556,405 1558,405 1560,405 1645,393 1647,380 1647,352 529,321 527,321 441,329 368,319 368,356"/>
+        <Baseline points="369,358 726,361 1129,376 1648,381"/>
+        <TextEquiv>
+          <Unicode>de IIIIᶜ.  ƚ tꝭ quil auoit Receue poʳ lađ uille poʳ doin a eulx fait ꝑ le roy nrẽ ße</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc64be8a" custom="structure {type:default;}">
+        <Coords points="370,413 505,415 517,429 525,429 558,417 635,431 668,419 690,433 790,421 932,433 938,433 949,425 1036,439 1103,429 1303,443 1338,431 1399,446 1637,433 1639,417 1637,389 936,382 894,370 839,378 678,366 564,374 551,364 437,372 421,362 415,362 372,370 372,397"/>
+        <Baseline points="374,399 691,403 1186,419 1640,419"/>
+        <TextEquiv>
+          <Unicode>pour les fraiz et miß q̃ lađ uille auoit faiz et paiez a feu maist̃ Ieh̃ dalee et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d83612e" custom="structure {type:InterlinearLine;}">
+        <Coords points="1625,431 1601,428 1568,419 1568,437 1566,450 1603,453 1644,459 1658,443 1654,427"/>
+        <Baseline points="1569,438 1636,441"/>
+        <TextEquiv>
+          <Unicode>trois</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_276286a7" custom="structure {type:default;}">
+        <Coords points="368,468 934,468 1116,484 1118,484 1199,474 1317,488 1319,488 1470,480 1647,494 1651,466 1649,441 370,413 370,439"/>
+        <Baseline points="372,441 1251,464 1653,467"/>
+        <TextEquiv>
+          <Unicode>guion farineau embassadeurs poʳ lađ uille / pour aler a lassemblee des ⟦droiz⟧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f65a21f" custom="structure {type:default;}">
+        <Coords points="1380,464 1277,472 1238,462 1167,470 1053,460 1008,468 998,458 370,458 368,511 421,503 484,515 617,505 647,519 653,519 706,507 759,517 873,509 902,523 1040,525 1110,513 1260,529 1266,529 1279,519 1340,529 1462,521 1474,531 1631,519 1631,478 1452,466 1411,474 1380,464"/>
+        <Baseline points="372,486 1634,507"/>
+        <TextEquiv>
+          <Unicode>estaz fẽ a bourges en lan mil IIIIᶜ XXIIII a laq̃lle assemblee fit octroy au Roy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02ed3f77" custom="structure {type:default;}">
+        <Coords points="364,553 386,545 417,556 419,556 421,556 423,556 460,541 474,556 474,558 476,558 478,558 480,558 545,543 578,556 580,556 582,556 672,545 708,562 710,562 712,562 786,547 892,566 894,566 973,553 991,568 993,568 995,568 998,568 1000,568 1050,556 1099,570 1101,570 1103,572 1195,572 1195,570 1197,570 1228,558 1325,574 1327,574 1627,570 1629,549 1629,513 364,494 364,525"/>
+        <Baseline points="365,526 1630,551"/>
+        <TextEquiv>
+          <Unicode>nrẽ ß ung aide dung million / pour la porcoñ duq̃l aide le pais de tour̃ fut</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6af9dd3a" custom="structure {type:default;}">
+        <Coords points="370,566 368,580 456,594 519,582 606,598 688,588 725,602 784,592 853,606 979,596 1183,617 1303,606 1315,621 1348,613 1378,623 1385,623 1405,613 1433,623 1440,623 1464,613 1478,625 1578,615 1643,629 1647,604 1645,564 1584,574 1482,560 1334,566 1321,556 1321,553 1258,564 1244,551 1187,562 1050,558 1038,545 839,549 792,537 727,547 657,533 370,535 370,566"/>
+        <Baseline points="372,567 945,581 1649,605"/>
+        <TextEquiv>
+          <Unicode>charge ⟦de⟧ a la soẽ de XXᵐ. ƚ / et fut octroie ꝑ le roy nr̃e ß est̃ leue sur leđ pais lađ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08375a11" custom="structure {type:default;}">
+        <Coords points="368,611 366,623 499,639 631,633 718,649 788,641 851,653 857,653 873,641 904,655 957,643 967,655 1034,659 1095,649 1283,668 1317,655 1409,672 1659,665 1662,649 1659,623 1533,606 1356,613 1332,600 1097,604 1085,592 1028,590 920,598 902,586 894,586 871,596 794,584 729,592 653,578 615,588 527,574 466,584 378,570 368,576 368,611"/>
+        <Baseline points="370,611 586,615 1132,640 1663,650"/>
+        <TextEquiv>
+          <Unicode>soẽ de IIIIᶜ  ƚ oult̃ lađ soẽ de XXᵐ. ƚ pour lesđ faiz et miß / leq̃l aide de XXᵐ.  ƚ auec</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31918cad" custom="structure {type:default;}">
+        <Coords points="372,653 370,674 386,686 549,678 611,694 617,694 639,682 659,696 668,696 706,684 745,698 853,702 883,690 902,704 995,694 1016,708 1067,698 1114,712 1222,702 1279,718 1334,706 1360,720 1446,712 1560,729 1615,714 1617,698 1617,672 1519,670 1501,655 1244,655 1230,645 1187,655 1114,641 1057,651 951,649 938,637 900,645 871,633 865,633 843,643 670,639 657,625 551,621 372,625 372,653"/>
+        <Baseline points="374,654 1026,684 1618,699"/>
+        <TextEquiv>
+          <Unicode>les IIIᶜ ƚ leđ goupil a este ⟦ꝯũ⟧ ꝯmis a receũ / Cont̃ laq̃lle execucoñ Il sest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e1b4365" custom="structure {type:default;}">
+        <Coords points="366,718 415,727 423,716 448,729 527,718 543,733 600,735 657,725 672,739 794,733 814,745 863,735 963,751 989,739 1008,753 1083,743 1101,757 1246,749 1260,763 1270,763 1289,751 1348,767 1413,769 1444,757 1584,763 1588,743 1588,720 1442,704 1397,714 1297,700 1252,708 1148,692 1118,702 1108,690 1059,700 963,684 916,694 737,676 629,682 580,668 395,672 370,659 366,718"/>
+        <Baseline points="370,697 1336,741 1590,745"/>
+        <TextEquiv>
+          <Unicode>oppose / et diß pour pousteur son oppoñ que monßʳ de maillerays lui auoit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10ff7f8d" custom="structure {type:default;}">
+        <Coords points="372,741 370,763 519,778 653,771 731,786 757,775 782,788 851,782 949,794 1091,788 1150,802 1244,804 1258,794 1315,808 1401,800 1415,812 1468,802 1525,816 1627,806 1629,786 1627,753 1368,755 1309,741 1262,751 1244,739 1236,739 1209,749 1185,737 1105,745 998,729 892,737 372,706 372,741"/>
+        <Baseline points="373,742 1121,779 1630,788"/>
+        <TextEquiv>
+          <Unicode>defendu que ne les poiast pas a lađ uille et / q̃ ouđ uoiage et embassade</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_59c1d420" custom="structure {type:default;}">
+        <Coords points="1099,778 1040,788 961,773 955,773 943,784 790,782 780,769 494,769 472,757 433,767 364,755 362,806 507,810 539,824 598,814 690,828 751,820 786,832 993,839 1026,828 1046,841 1087,832 1604,855 1609,830 1609,798 1234,796 1224,784 1179,792 1099,778"/>
+        <Baseline points="366,787 831,813 1611,832"/>
+        <TextEquiv>
+          <Unicode>nauoit pas tant este deppendu / ⁊ q̃ il ⟦en f⟧ nen auoit par Receu L ƚ tꝭ qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_400137e7" custom="structure {type:default;}">
+        <Coords points="1676,839 1083,818 831,814 668,804 382,794 380,849 547,853 588,869 594,869 619,857 678,857 694,875 739,867 778,879 867,865 951,885 1008,875 1071,890 1311,887 1376,900 1494,885 1529,904 1590,902 1617,890 1670,908 1678,869 1676,839"/>
+        <Baseline points="384,821 695,838 1083,859 1679,870"/>
+        <TextEquiv>
+          <Unicode>ont este chr̃gez en la chastel̃l̃ de chasteau Regñ poʳ ⟦le fa⟧ ce q̃ on y soit aler poʳ lagent</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_408457e9" custom="structure {type:default;}">
+        <Coords points="364,922 362,953 708,959 735,983 745,983 771,963 798,963 816,977 847,971 871,995 945,977 983,991 1006,983 1018,997 1026,997 1057,985 1150,1004 1220,995 1405,1008 1435,997 1446,1010 1452,1012 1503,1012 1541,993 1558,1012 1566,1012 1590,1000 1641,1012 1647,979 1645,951 1505,938 1450,947 1399,928 1393,928 1356,945 1319,932 1311,932 1301,942 1254,932 1158,940 1126,924 1120,924 1087,938 900,936 814,928 788,904 568,908 364,896 364,922"/>
+        <Baseline points="366,923 697,940 779,947 826,958 1068,968 1167,985 1648,981"/>
+        <TextEquiv>
+          <Unicode>A la ꝑ fin a este conclut ⟦que⟧ et appointe que lađ soẽ de L ƚ tꝭ ueriffiee par</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07fe7cb1" custom="structure {type:default;}">
+        <Coords points="1283,983 1258,995 967,981 928,963 922,963 898,975 855,959 782,967 763,955 753,955 739,967 596,961 523,940 488,951 472,938 372,942 370,981 482,1006 653,1000 674,1010 727,1006 739,1020 800,1008 814,1024 949,1016 1006,1034 1048,1022 1079,1038 1224,1046 1230,1046 1240,1038 1250,1048 1338,1050 1364,1038 1474,1061 1480,1061 1501,1046 1621,1050 1625,1026 1623,1002 1413,991 1368,1002 1283,983"/>
+        <Baseline points="374,968 1189,1026 1626,1027"/>
+        <TextEquiv>
+          <Unicode>les ꝯmisßes a mectre sus lađ aide non auoir este Receue ꝑ leđ goupil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01fc5dfb" custom="structure {type:default;}">
+        <Coords points="1238,1026 1209,1038 1140,1024 991,1024 957,1008 930,1006 837,1016 808,997 788,995 712,1008 659,987 596,1002 551,983 494,995 446,975 370,975 368,1028 419,1050 519,1038 653,1046 661,1059 723,1054 735,1069 824,1063 955,1079 965,1067 1002,1085 1201,1085 1240,1099 1330,1087 1346,1103 1446,1093 1488,1114 1497,1114 1519,1099 1617,1101 1621,1073 1617,1044 1350,1046 1238,1026"/>
+        <Baseline points="372,1011 1012,1064 1227,1072 1623,1074"/>
+        <TextEquiv>
+          <Unicode>lui ßa rabatue de lađ sõme de IIIIᶜ. ƚ tꝭ de laq̃lle aut̃sfꝭ Il a paie auđ Receũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b990eb3" custom="structure {type:default;}">
+        <Coords points="1291,1085 1264,1075 1222,1085 1207,1071 1132,1081 1085,1081 1075,1067 1036,1077 928,1075 881,1059 843,1069 741,1067 725,1052 668,1061 635,1038 366,1028 364,1087 395,1099 580,1097 600,1107 629,1099 688,1122 771,1105 831,1128 886,1118 926,1132 1065,1128 1101,1138 1132,1126 1217,1144 1283,1134 1315,1148 1348,1138 1431,1152 1450,1142 1460,1154 1468,1154 1499,1138 1602,1146 1607,1124 1602,1091 1464,1095 1435,1081 1354,1085 1336,1073"/>
+        <Baseline points="367,1059 551,1065 631,1086 1116,1118 1609,1126"/>
+        <TextEquiv>
+          <Unicode>la soẽ de VIIIˣˣ. ƚ / ainsi nen reste que la soẽ de IXˣˣ. X ƚ tꝭ dont Il paiera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53cec17a" custom="structure {type:default;}">
+        <Coords points="1179,1118 1167,1118 1136,1128 1077,1116 910,1118 892,1101 879,1101 845,1116 796,1097 708,1109 698,1097 366,1081 364,1132 437,1134 450,1150 460,1150 476,1138 549,1150 629,1144 645,1158 653,1158 686,1146 716,1160 723,1160 743,1150 759,1164 759,1167 881,1160 936,1175 1617,1191 1621,1171 1619,1132 1570,1140 1488,1128 1468,1138 1454,1128 1444,1128 1427,1140 1358,1124 1236,1132 1197,1118 1179,1118"/>
+        <Baseline points="367,1107 499,1114 807,1145 1075,1163 1623,1173"/>
+        <TextEquiv>
+          <Unicode>et a promis paier auđ Receũ et a lađ uille la soẽ de C. ƚ tꝭ dedens la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_adb52d7b" custom="structure {type:default;}">
+        <Coords points="1592,1171 1582,1171 1560,1187 1533,1171 1501,1171 1468,1185 943,1171 916,1152 839,1148 792,1142 769,1162 692,1136 649,1146 617,1134 372,1126 374,1199 386,1189 541,1191 568,1211 576,1211 611,1195 700,1209 739,1199 810,1219 818,1219 835,1209 908,1222 945,1209 975,1224 981,1224 1004,1213 1018,1226 1268,1234 1281,1224 1366,1240 1431,1240 1464,1224 1549,1244 1609,1230 1611,1173 1592,1171"/>
+        <Baseline points="374,1160 624,1169 837,1194 1060,1209 1613,1216"/>
+        <TextEquiv>
+          <Unicode>feste de toussains prouch̃ ueñ / et du Residu cest assauoir IIIIˣˣ. X ƚ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63a9eec1" custom="structure {type:default;}">
+        <Coords points="1382,1213 1336,1226 1209,1211 1203,1211 1189,1222 961,1217 892,1197 859,1213 790,1213 708,1189 702,1189 682,1199 594,1187 570,1195 562,1185 372,1187 370,1234 529,1238 570,1254 578,1254 600,1242 710,1242 865,1268 906,1258 949,1270 983,1258 1018,1272 1165,1266 1279,1279 1346,1268 1552,1287 1613,1272 1613,1228 1509,1230 1497,1217 1446,1226 1382,1213"/>
+        <Baseline points="374,1212 630,1220 817,1239 1122,1253 1617,1258"/>
+        <TextEquiv>
+          <Unicode>tꝭ ßa leđ goupil tenu en suspens Iusques a la fin de la Redicoñ de ses</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d189f92" custom="structure {type:default;}">
+        <Coords points="370,1254 368,1283 678,1289 698,1311 706,1311 745,1297 855,1315 1110,1309 1134,1319 1344,1323 1374,1313 1462,1327 1541,1307 1604,1329 1641,1313 1643,1299 1643,1272 1621,1262 1144,1262 969,1248 943,1258 912,1244 904,1244 890,1258 845,1258 816,1244 767,1252 684,1238 370,1232 370,1254"/>
+        <Baseline points="372,1255 585,1266 746,1284 881,1291 1645,1300"/>
+        <TextEquiv>
+          <Unicode>comptes duđ aide q̃l dit uiesuemt̃ Rendre en la chambre des comptes / et se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f749bc56" custom="structure {type:default;}">
+        <Coords points="370,1297 368,1321 403,1336 448,1325 509,1325 525,1340 647,1331 657,1344 782,1338 796,1348 1144,1360 1189,1352 1201,1362 1297,1354 1325,1366 1382,1356 1452,1370 1458,1370 1474,1360 1533,1370 1635,1362 1637,1340 1635,1309 1332,1313 1118,1295 1022,1303 718,1295 690,1279 682,1279 663,1291 633,1276 370,1274 370,1297"/>
+        <Baseline points="372,1299 989,1336 1638,1341"/>
+        <TextEquiv>
+          <Unicode>⟦I⟧ sesđ comptes Icelle soẽ lui est alouee il la paiera et Rendra a lađ uille</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f195eec2" custom="structure {type:default;}">
+        <Coords points="1338,1338 1250,1350 1077,1348 1061,1336 1026,1344 1000,1336 969,1334 916,1342 814,1327 788,1338 676,1319 380,1319 378,1366 584,1370 670,1389 735,1380 751,1397 761,1397 780,1384 869,1403 1014,1397 1071,1409 1207,1391 1260,1413 1307,1397 1352,1415 1444,1417 1468,1401 1535,1419 1625,1399 1625,1348 1403,1354 1338,1338"/>
+        <Baseline points="382,1342 611,1352 1018,1379 1628,1382"/>
+        <TextEquiv>
+          <Unicode>et se Il Iure en la recepte desđ IIIIᶜ. ƚ est̃ aucuẽment endõmaige / ⟦la⟧ Il ßa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d068869" custom="structure {type:default;}">
+        <Coords points="378,1380 376,1421 417,1415 439,1429 441,1429 444,1429 446,1429 448,1429 484,1419 537,1429 539,1429 541,1429 580,1419 619,1439 621,1439 623,1439 737,1429 753,1443 753,1446 755,1446 757,1446 861,1452 863,1452 865,1452 867,1452 892,1435 979,1437 983,1411 981,1386 378,1354 378,1380"/>
+        <Baseline points="380,1382 737,1401 859,1413 985,1413"/>
+        <TextEquiv>
+          <Unicode>desdõmaige ainsi quil ßa esgarde</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fd96b984"  custom="structure {type:DamageZone;}">
+      <Coords points="1156,2089 1093,2396 1713,2396 1709,2199 1595,2222 1443,2080"/>
+    </TextRegion>
+  </Page>
+</PcGts>

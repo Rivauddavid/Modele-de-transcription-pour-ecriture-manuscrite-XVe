@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-01-25T16:16:03.523870+00:00</Created>
+        <LastChange>2026-07-16T08:09:27.866600+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAC037261_BBR_002_0236.jpg" imageWidth="1796" imageHeight="2458">
+    <TextRegion id="eSc_textblock_b8445f5f"  custom="structure {type:text;}">
+      <Coords points="1099,68 1058,135 1003,142 828,142 775,129 775,81 803,71"/>
+      <TextLine id="eSc_line_d888692d" custom="structure {type:default;}">
+        <Coords points="779,131 833,128 835,131 842,136 842,137 844,137 845,137 846,139 879,139 879,137 880,137 897,129 913,122 972,122 986,129 1002,137 1003,137 1013,138 1047,139 1047,137 1048,137 1050,137 1061,129 1074,102 1091,70 779,79 779,103"/>
+        <Baseline points="779,103 1061,103"/>
+        <TextEquiv>
+          <Unicode>doin fait au cappⁿᵉ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b60432dd"  custom="structure {type:text;}">
+      <Coords points="981,174 971,222 1016,240 1593,256 1626,273 1615,572 1648,622 1648,665 1610,715 1604,790 1653,852 1659,992 1643,1014 1223,1041 1162,1085 518,1085 393,1104 392,1012 413,951 415,921 426,185 442,169 768,156 768,163 960,163"/>
+      <TextLine id="eSc_line_330703da" custom="structure {type:default;}">
+        <Coords points="902,163 881,163 861,163 840,163 820,163 799,163 779,163 772,161 432,176 432,178 434,217 434,239 533,251 535,251 647,227 783,241 785,241 787,241 846,219 928,221 930,198 924,163 922,163"/>
+        <Baseline points="435,219 748,203 932,199"/>
+        <TextEquiv>
+          <Unicode>le XXIXᵉ Iour de may celui an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f4f91e3" custom="structure {type:default;}">
+        <Coords points="1576,253 1556,253 1539,262 1472,251 1443,262 1426,249 1412,249 1398,262 1367,253 1168,264 1137,245 1129,245 1076,260 990,247 928,268 848,268 828,256 818,256 803,270 756,270 723,253 492,251 428,272 430,337 586,325 713,335 746,319 830,319 863,335 932,321 994,333 1012,317 1129,333 1141,317 1189,315 1240,315 1269,331 1275,331 1373,313 1531,329 1552,313 1607,309 1605,264 1597,260"/>
+        <Baseline points="431,307 1608,296"/>
+        <TextEquiv>
+          <Unicode>En la pnc̃e de Ieh̃ simon lieutꝭ / se sont assẽblez au tablier de lađ uille</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9169d79a" custom="structure {type:default;}">
+        <Coords points="428,370 430,405 496,387 526,403 535,403 559,387 608,397 715,387 731,403 742,403 766,387 809,403 932,387 1012,397 1062,387 1076,399 1123,387 1154,399 1162,399 1176,387 1240,405 1396,405 1461,389 1484,405 1535,405 1556,387 1595,387 1597,374 1593,344 1498,331 1492,331 1482,340 1470,331 1463,331 1367,342 1324,331 1308,344 1174,344 1152,327 1141,327 1127,342 1076,329 1062,344 1016,344 762,327 756,327 740,340 658,331 631,342 531,327 504,342 455,327 446,327 426,340 428,370"/>
+        <Baseline points="430,371 1043,370 1282,379 1599,375"/>
+        <TextEquiv>
+          <Unicode>les esleuz / maist̃ Ieh̃ cheurier chanoine de leglẽ de tours pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_721bbb4a" custom="structure {type:default;}">
+        <Coords points="436,417 436,436 533,446 535,446 537,446 539,446 539,444 551,434 645,434 668,444 670,444 672,444 674,444 697,434 742,446 744,446 746,446 748,446 789,434 789,415 781,376 748,387 588,376 586,376 584,376 582,376 572,387 551,378 549,378 547,378 434,389 436,417"/>
+        <Baseline points="437,419 790,416"/>
+        <TextEquiv>
+          <Unicode>chappᵉ de Icelle eglẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8ab4c1e" custom="structure {type:default;}">
+        <Coords points="428,479 430,507 453,491 494,510 758,495 774,514 783,514 844,497 865,516 975,499 1105,520 1197,503 1258,522 1351,505 1369,522 1603,526 1607,503 1607,452 1472,444 1394,456 1297,444 1234,454 1211,440 1090,438 1066,448 1006,438 994,448 967,436 914,448 729,448 699,432 602,444 496,430 428,440 428,479"/>
+        <Baseline points="430,480 824,477 1095,491 1367,494 1608,505"/>
+        <TextEquiv>
+          <Unicode>maist̃s Iames dargoiges sobz doien de leglẽ de monßʳ ßt m̃tin et Iourdan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b9ce8ffc" custom="structure {type:default;}">
+        <Coords points="436,522 434,532 522,534 537,551 545,551 576,536 586,546 729,540 756,553 883,544 994,567 1133,569 1164,555 1191,569 1295,575 1369,557 1371,542 1367,501 1297,514 1219,497 1166,510 1148,497 1074,507 1051,493 996,505 965,491 861,501 746,485 713,497 637,485 631,485 619,493 608,483 600,483 578,493 436,489 436,522"/>
+        <Baseline points="438,523 689,521 1128,540 1372,544"/>
+        <TextEquiv>
+          <Unicode>morin chanoine dicelle eglẽ poʳ chappᵉ de lađ eglẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6301ac51" custom="structure {type:default;}">
+        <Coords points="434,594 432,622 578,624 600,614 627,624 670,618 703,634 756,620 902,626 914,643 922,643 955,628 971,639 1053,632 1117,651 1219,639 1324,659 1383,649 1426,663 1634,661 1636,643 1636,612 1492,606 1410,579 1273,596 1228,596 1207,575 1111,581 1068,565 912,581 863,577 844,557 774,567 719,553 654,571 602,546 535,565 487,548 434,548 434,594"/>
+        <Baseline points="435,596 934,609 1304,633 1637,644"/>
+        <TextEquiv>
+          <Unicode>Ieh̃ godeau Ieh̃ de brion guillẽ lesaint̃ maist̃ ꝑre sohier</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_990110e4" custom="structure {type:default;}">
+        <Coords points="440,653 438,671 555,684 678,673 688,686 697,686 723,675 742,690 805,677 1000,682 1258,706 1314,694 1330,708 1385,698 1402,710 1455,702 1576,714 1580,688 1578,647 1392,651 1363,637 1357,637 1324,649 1279,634 1209,645 1158,630 1068,641 1025,641 1006,624 928,632 877,620 820,632 729,618 692,628 670,614 600,624 586,612 576,612 553,624 496,624 467,608 461,608 440,618 440,653"/>
+        <Baseline points="441,655 905,660 1395,686 1581,689"/>
+        <TextEquiv>
+          <Unicode>berthelot lopin ꝑre briconnet et aut̃s bourg̃ ⁊ hĩtans de lađ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ba988db" custom="structure {type:default;}">
+        <Coords points="432,696 430,712 459,727 461,727 463,727 541,714 586,729 588,729 590,729 842,716 844,702 844,675 713,675 692,661 690,661 688,661 686,661 432,665 432,696"/>
+        <Baseline points="434,697 845,704"/>
+        <TextEquiv>
+          <Unicode>uille en gnt̃ nombre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b9cb6cb1" custom="structure {type:default;}">
+        <Coords points="428,786 426,807 498,815 553,800 588,815 631,804 725,817 756,802 846,802 871,815 920,804 941,821 947,821 1027,804 1074,819 1146,807 1180,817 1256,811 1273,825 1365,813 1385,827 1564,829 1568,811 1566,772 1441,772 1422,755 1355,751 1254,764 1228,749 1103,764 1033,745 932,745 914,761 846,749 818,759 723,749 631,757 578,739 569,739 543,755 475,743 428,753 428,786"/>
+        <Baseline points="430,787 1184,792 1570,813"/>
+        <TextEquiv>
+          <Unicode>lesquelx ont appointe et delibẽ estre donne pour lesđ gens</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_166bcb9e" custom="structure {type:default;}">
+        <Coords points="1619,811 1394,815 1322,802 1221,811 1205,800 1008,798 1002,798 986,809 963,798 811,809 791,796 781,796 764,809 740,796 688,809 666,794 613,807 592,794 586,794 430,804 428,856 492,864 572,850 643,864 662,850 736,860 774,852 842,866 867,852 914,852 1018,868 1037,854 1131,854 1199,870 1291,856 1392,872 1627,868 1627,821 1619,811"/>
+        <Baseline points="431,842 1029,837 1630,853"/>
+        <TextEquiv>
+          <Unicode>deglẽ bourg̃ et habitꝭ / au cappⁿᵉ ⟦des⟧ des uille ⁊ chastel de tours</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a3bcec6" custom="structure {type:default;}">
+        <Coords points="434,886 432,901 453,911 526,901 709,901 738,911 824,901 916,911 947,901 986,913 1049,903 1113,903 1123,913 1178,903 1191,913 1593,907 1595,893 1593,862 1381,862 1305,848 1242,848 1230,860 1014,848 1000,860 984,845 891,858 826,845 686,845 639,858 594,845 586,845 565,858 434,850 434,886"/>
+        <Baseline points="435,888 1133,886 1597,895"/>
+        <TextEquiv>
+          <Unicode>nagaires mis et Institue ouđ office ꝑ monßʳ le duc de touraine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79950d1e" custom="structure {type:default;}">
+        <Coords points="442,938 442,956 1629,954 1631,929 1625,901 1281,901 1269,891 1267,891 1264,891 1262,891 1201,901 1148,891 1146,891 1144,891 1121,901 1068,891 1066,891 848,903 678,893 676,893 674,893 672,893 658,903 586,893 584,893 582,893 580,893 567,905 440,905 442,938"/>
+        <Baseline points="443,939 658,934 1633,931"/>
+        <TextEquiv>
+          <Unicode>conte donglais / deux pippes de uin et ung muy dauoine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04a2a3f6" custom="structure {type:default;}">
+        <Coords points="430,991 430,1011 463,1028 471,1028 504,1003 553,1011 670,1001 703,1030 711,1030 729,1022 754,1032 762,1032 793,1005 848,1015 879,1001 955,1018 982,999 1158,999 1205,1022 1213,1022 1244,1003 1340,1005 1363,1030 1369,1032 1459,1032 1480,1018 1638,1030 1642,985 1638,946 1277,952 1264,940 1189,940 1144,952 1090,940 1072,954 953,942 941,956 723,956 707,942 600,942 569,954 469,942 428,954 430,991"/>
+        <Baseline points="431,992 962,980 1643,987"/>
+        <TextEquiv>
+          <Unicode>poʳ aũ les besoignes et afaires de lađ uille et lesđ gens deglẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_829fd2ac" custom="structure {type:default;}">
+        <Coords points="407,1044 407,1065 596,1058 664,1071 676,1058 764,1095 873,1099 936,1097 1016,1048 1078,1052 1113,1085 1152,1091 1154,1028 1150,991 994,985 939,999 869,987 848,1003 766,1005 703,1005 692,993 684,993 658,1005 619,993 610,993 590,1007 496,995 483,1009 405,1011 407,1044"/>
+        <Baseline points="409,1046 1156,1030"/>
+        <TextEquiv>
+          <Unicode>bourg̃ ⁊ habitꝭ dicelle poʳ Recõmanđ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
