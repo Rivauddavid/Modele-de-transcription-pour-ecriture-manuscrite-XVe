@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-02-10T11:33:20.541876+00:00</Created>
+        <LastChange>2026-07-22T07:24:30.785292+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAC037261_BBR_002_0270.jpg" imageWidth="1846" imageHeight="2498">
+    <TextRegion id="eSc_textblock_e5134e5c"  custom="structure {type:text;}">
+      <Coords points="1618,116 1629,159 1612,176 1398,217 882,217 882,216 843,204 849,116 1297,99"/>
+      <TextLine id="eSc_line_42479de7" custom="structure {type:InterlinearLine;}">
+        <Coords points="1344,101 1331,101 1317,99 1303,99 1304,112 1304,126 1368,122 1368,109 1367,102 1358,102"/>
+        <Baseline points="1304,112 1368,109"/>
+        <TextEquiv>
+          <Unicode>Illec</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_843499fa" custom="structure {type:HeadingLine;}">
+        <Coords points="1595,114 1575,114 1554,112 1533,110 1512,110 1491,108 1470,108 1450,106 1429,106 1416,112 1304,112 1233,99 1220,102 1189,112 1168,104 1158,104 1139,104 1062,112 1043,108 1033,108 1012,110 1010,110 1006,114 964,110 950,112 929,112 908,112 887,114 866,114 845,141 847,147 847,162 1618,154 1618,139 1612,129 1595,114"/>
+        <Baseline points="848,149 1619,140"/>
+        <TextEquiv>
+          <Unicode>poʳ enuoier a poict̃s ⟦d⟧ a lasseblee Reuniee de mõtlucon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_800e13ec" custom="structure {type:HeadingLine;}">
+        <Coords points="852,209 917,210 918,210 920,210 921,210 921,209 935,197 968,195 1002,206 1003,206 1004,206 1006,206 1027,195 1082,202 1084,202 1085,202 1102,194 1115,202 1117,202 1118,202 1120,202 1121,202 1139,195 1150,206 1150,208 1152,208 1153,208 1154,208 1225,206 1226,206 1228,206 1247,194 1271,205 1272,205 1274,205 1275,205 1304,197 1338,205 1339,205 1340,205 1342,205 1343,205 1343,204 1357,191 1421,197 1422,197 1424,197 1437,188 1437,177 1432,148 1414,156 1397,149 1396,149 1394,149 1393,149 1392,149 1381,158 1338,158 1329,149 1329,148 1328,148 1326,148 1325,148 1232,156 1203,151 1201,151 1200,151 1199,151 1189,159 1085,151 1084,151 1082,151 1061,160 967,152 966,152 903,162 884,154 882,154 881,154 879,154 850,163 852,184"/>
+        <Baseline points="852,184 1437,177"/>
+        <TextEquiv>
+          <Unicode>⁊ ⟦p⟧ ꝗe on fera doin a monßʳ de Richemont</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bcd92531"  custom="structure {type:text;}">
+      <Coords points="1701,266 1701,392 1557,442 1707,460 1740,482 1768,749 1746,849 1768,1060 1757,1236 1608,1287 494,1287 499,423 445,308 532,238 822,243 822,247 1466,247 1466,239"/>
+      <TextLine id="eSc_line_ad06ec0b" custom="structure {type:default;}">
+        <Coords points="1629,256 1585,260 1573,249 1556,247 1543,260 1510,243 1502,243 1404,253 1381,247 1143,247 1112,262 1027,247 1010,264 941,247 906,264 551,231 500,266 442,346 566,318 606,335 695,335 739,318 833,330 927,316 970,328 977,328 1010,316 1052,330 1298,330 1316,312 1510,312 1525,326 1531,328 1598,328 1685,308 1687,289 1683,262 1666,262"/>
+        <Baseline points="503,302 1144,299 1349,288 1689,291"/>
+        <TextEquiv>
+          <Unicode>Le XXVIᵉ Iour doctobre / celui an mil IIIIᶜ XXIIII Au lieu dela massequiẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fce00b59" custom="structure {type:default;}">
+        <Coords points="522,372 575,372 591,389 600,389 633,372 708,372 731,391 739,391 762,380 791,391 800,391 820,374 835,387 841,387 998,372 1033,393 1083,393 1110,372 1162,372 1187,391 1262,374 1293,374 1316,391 1323,393 1443,393 1491,372 1514,391 1525,391 1541,378 1695,391 1698,351 1693,310 1639,320 1568,310 1548,324 1495,310 1383,326 1168,326 1139,312 1089,324 1052,310 943,310 927,322 914,310 904,310 889,326 847,326 799,321 711,318 681,330 655,318 602,342 579,322 522,324 522,351"/>
+        <Baseline points="523,353 1700,353"/>
+        <TextEquiv>
+          <Unicode>en la pnc̃e de Ieh̃ simon lieut̃ ⁊c̃ se sont assemblez maist̃ m̃tin dargoig̃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c787abe" custom="structure {type:default;}">
+        <Coords points="522,410 522,445 635,422 770,422 781,430 781,432 783,432 785,432 787,432 789,432 827,422 889,432 891,432 1035,422 1070,443 1073,443 1075,443 1077,443 1356,437 1358,405 1356,372 806,362 804,362 802,362 800,362 800,364 789,374 691,374 679,362 677,362 675,362 545,362 543,362 541,362 539,362 520,372 522,410"/>
+        <Baseline points="523,412 891,403 1360,408"/>
+        <TextEquiv>
+          <Unicode>Ieh̃ sait̃ et mich̃ charbonneau esleuz de lađ uille</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2d7a9f1" custom="structure {type:default;}">
+        <Coords points="1708,462 1687,478 1487,464 1473,480 1333,480 1291,464 1283,464 1266,480 1200,480 1125,460 1118,460 1079,474 1064,460 991,460 977,474 929,462 895,478 752,478 706,460 518,457 516,530 771,532 810,539 818,539 833,526 887,526 1204,541 1235,528 1245,541 1252,543 1295,543 1331,528 1345,541 1352,543 1581,543 1600,528 1670,528 1735,541 1743,528 1764,503 1750,482 1725,474"/>
+        <Baseline points="520,509 1746,514"/>
+        <TextEquiv>
+          <Unicode>Ieh̃ de p̃aux mace de la bretõniẽ Ieh̃ fayau g̃uaise goupil pohier Ienson</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e30c817" custom="structure {type:default;}">
+        <Coords points="510,587 538,572 558,587 582,568 606,570 624,581 658,575 690,573 722,573 760,590 807,571 829,596 857,578 887,573 900,587 1025,576 1271,594 1325,577 1364,576 1452,579 1553,568 1724,566 1670,537 1540,531 1474,543 1373,544 1321,527 1272,545 1207,534 1174,538 939,528 909,542 863,531 828,533 766,533 743,536 721,534 703,539 681,517 627,531 512,524 512,553"/>
+        <Baseline points="513,555 1318,562 1711,556"/>
+        <TextEquiv>
+          <Unicode>loisel Ieh̃ chappon ꝑre richart Ieh̃ bordeau estiẽ turron oliũ michau</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7787baa" custom="structure {type:default;}">
+        <Coords points="1563,584 1546,586 1522,575 1503,579 1486,588 1398,584 1345,583 1315,591 1285,593 1223,592 1141,588 1072,581 955,582 869,572 835,592 777,590 590,570 568,589 516,576 518,605 518,624 1701,623 1706,597 1703,580 1692,572 1671,565 1650,572 1636,578 1599,565 1572,566"/>
+        <Baseline points="519,606 1708,598"/>
+        <TextEquiv>
+          <Unicode>estiẽ bouchart guillẽ bruleborde / mace prunier mace le gnt̃ Iaq̃t</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_788b7924" custom="structure {type:default;}">
+        <Coords points="516,661 620,672 622,672 625,672 658,661 916,661 977,672 979,672 1029,661 1127,672 1129,672 1206,659 1231,670 1233,670 1235,670 1352,659 1368,670 1370,670 1373,670 1375,670 1558,659 1675,670 1677,670 1745,657 1748,645 1743,618 514,614 516,649"/>
+        <Baseline points="517,650 1750,646"/>
+        <TextEquiv>
+          <Unicode>brisebarre oliuier damouretes estiẽ garnier / estiẽ gobet bertan mosnier</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e0ccf62" custom="structure {type:default;}">
+        <Coords points="510,699 541,711 543,711 545,714 778,699 794,721 850,703 890,709 966,711 968,711 970,711 1012,701 1141,714 1143,714 1145,714 1168,703 1270,703 1285,714 1287,714 1289,714 1291,714 1743,701 1745,689 1743,661 512,657 512,684"/>
+        <Baseline points="514,686 1746,691"/>
+        <TextEquiv>
+          <Unicode>Richart Rousseau ꝑre fumee andre hacq̃teau Ieh̃ Rouant Ieh̃ cheurier</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2f85a68" custom="structure {type:default;}">
+        <Coords points="510,730 510,749 906,759 908,759 910,759 912,759 912,757 923,747 1002,747 1218,757 1220,757 1223,757 1243,747 1685,755 1687,755 1739,743 1741,724 1737,695 508,693 510,730"/>
+        <Baseline points="512,732 1743,725"/>
+        <TextEquiv>
+          <Unicode>le Ieune Ieh̃ hardoin hugues de la uerne Ieh̃ chantefain moricet mousthet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13bf41ab" custom="structure {type:default;}">
+        <Coords points="508,793 1754,793 1756,770 1754,741 510,738 510,766"/>
+        <Baseline points="512,768 1757,772"/>
+        <TextEquiv>
+          <Unicode>yuonnet goyn mace poupin Ieh̃ peslieu Ieh̃ m̃tineau Iaq̃t gasteau poul</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c3d711a6" custom="structure {type:default;}">
+        <Coords points="516,809 514,826 718,843 923,834 937,845 943,845 1100,832 1129,843 1231,834 1243,847 1454,836 1468,849 1479,849 1495,836 1554,851 1687,838 1723,851 1729,822 1727,791 1593,780 1543,791 1531,778 1418,788 1325,776 1218,786 1025,774 945,784 812,772 745,782 516,778 516,809"/>
+        <Baseline points="517,811 1730,824"/>
+        <TextEquiv>
+          <Unicode>amil phom̃ des places Ieh̃ fias anthoine destour Robert chode / Ieh̃ gobin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fde19384" custom="structure {type:default;}">
+        <Coords points="512,863 514,893 558,880 618,893 620,895 689,895 689,893 691,893 693,893 708,880 814,880 843,893 845,893 847,893 941,880 977,893 979,893 981,893 1048,880 1106,893 1108,893 1110,893 1152,878 1177,890 1179,890 1181,890 1183,890 1237,878 1295,878 1308,888 1308,890 1310,890 1312,890 1314,890 1443,878 1493,890 1495,890 1498,890 1500,890 1529,880 1710,890 1714,859 1710,832 510,832 512,863"/>
+        <Baseline points="513,864 1716,860"/>
+        <TextEquiv>
+          <Unicode>guion farineau estiẽ langlois Ieh̃ de lespine Ieh̃ galocheau Iehan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54e7052e" custom="structure {type:default;}">
+        <Coords points="508,909 510,938 558,924 660,924 672,936 681,936 714,926 747,936 756,936 768,924 795,936 937,924 954,936 1168,924 1187,932 1195,932 1206,922 1254,922 1268,934 1277,934 1314,922 1431,922 1443,934 1706,928 1708,905 1704,878 1539,868 1398,878 1377,868 1302,878 1273,868 1185,878 1118,868 1079,880 1048,870 977,880 762,870 620,880 552,870 506,880 508,909"/>
+        <Baseline points="510,911 1709,906"/>
+        <TextEquiv>
+          <Unicode>godeau guillẽ lesaitier gillet de brion michel dupuiz estiẽ poupelin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a1cc7f6" custom="structure {type:default;}">
+        <Coords points="508,957 508,982 575,970 720,980 722,980 1735,972 1737,955 1735,924 1712,911 1710,911 1708,911 1706,911 1635,924 1066,911 1064,911 950,924 937,913 937,911 935,911 933,911 841,911 839,911 837,911 835,911 835,913 822,926 654,926 610,911 608,911 606,911 604,911 602,911 581,924 545,911 543,911 541,911 539,911 506,924 508,957"/>
+        <Baseline points="510,958 1739,956"/>
+        <TextEquiv>
+          <Unicode>Ieh̃ de brion Iamnet de foug̃ais guillm̃ de montbason Ieh̃ hameraye Ieh̃ de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f62070c" custom="structure {type:default;}">
+        <Coords points="510,988 508,1009 627,1011 643,1026 645,1026 647,1026 650,1026 935,1013 1058,1026 1060,1026 1183,1013 1237,1028 1239,1028 1241,1028 1408,1017 1520,1028 1523,1028 1525,1028 1527,1028 1543,1015 1685,1028 1687,1028 1737,1015 1739,1001 1733,961 1704,972 1310,961 1308,961 1306,961 1270,972 1229,961 1227,961 1225,961 1223,961 1187,972 1148,959 1145,959 1143,959 1141,959 1108,970 1020,959 1018,959 1016,959 987,970 510,961 510,988"/>
+        <Baseline points="512,989 705,1000 1741,1003"/>
+        <TextEquiv>
+          <Unicode>larrez / Ieh̃ ⟦Rou⟧ charruau adenet Ripaut guillm̃ suille Ieh̃ Ruze denis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c3c19c94" custom="structure {type:default;}">
+        <Coords points="1762,1058 1750,1016 1681,1025 1538,1014 1491,1025 1368,1027 1161,1019 955,1011 838,1027 771,1011 662,1031 634,1013 510,997 510,1030 508,1057 606,1056 675,1076 711,1057 816,1056 843,1067 888,1049 1079,1052 1368,1058"/>
+        <Baseline points="512,1031 1750,1046"/>
+        <TextEquiv>
+          <Unicode>de la place ꝑre bodin ꝑrin m̃chant gillet broutier Iamet chambellam guillẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f129c773" custom="structure {type:default;}">
+        <Coords points="504,1090 589,1105 591,1105 866,1097 931,1107 933,1109 1041,1109 1041,1107 1043,1107 1045,1107 1062,1097 1131,1107 1133,1107 1135,1107 1158,1097 1198,1107 1200,1107 1202,1107 1204,1107 1233,1097 1314,1107 1316,1107 1366,1099 1387,1109 1389,1109 1391,1109 1393,1109 1407,1108 1420,1117 1423,1128 1433,1134 1440,1120 1455,1118 1466,1114 1496,1096 1514,1109 1516,1109 1518,1109 1750,1097 1752,1080 1769,1054 506,1047 506,1074"/>
+        <Baseline points="507,1076 1753,1082"/>
+        <TextEquiv>
+          <Unicode>mallelance Ieh̃ uigneron barbr̃ ꝑre m̃teau guillẽ boulon ꝑre goupil / mace</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a5ae869" custom="structure {type:default;}">
+        <Coords points="508,1178 539,1192 541,1192 543,1192 612,1178 779,1178 808,1192 810,1192 812,1192 814,1192 850,1178 870,1192 872,1192 875,1192 877,1192 935,1180 964,1192 966,1192 968,1194 1116,1194 1116,1192 1212,1176 1393,1176 1431,1190 1433,1190 1435,1190 1729,1182 1731,1159 1727,1141 506,1134 508,1163"/>
+        <Baseline points="510,1165 1732,1161"/>
+        <TextEquiv>
+          <Unicode>le Ieune Roulet lemoyne Ieh̃ phelipes phlõt de haulteriue Ieh̃ Riuet mace</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f14b7d0" >
+        <Coords points="502,1146 620,1146 620,1144 622,1144 625,1144 625,1142 635,1134 668,1135 687,1142 718,1133 755,1131 819,1139 878,1141 922,1133 970,1144 1010,1144 1091,1146 1121,1158 1181,1138 1271,1135 1481,1139 1617,1146 1778,1142 1790,1108 1620,1093 1571,1113 1538,1095 1477,1090 1430,1120 1305,1103 1221,1112 1182,1102 1111,1106 999,1106 821,1096 700,1101 637,1104 504,1086 504,1117"/>
+        <Baseline points="505,1119 619,1120 741,1123 867,1123 953,1120 1074,1123 1170,1121 1299,1121 1402,1128 1563,1125 1625,1124 1700,1121 1755,1119"/>
+        <TextEquiv>
+          <Unicode>huguet colas rochiet elie coquet ꝑre quetier mace aueline Ieh̃ lambert</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d988ce02" custom="structure {type:default;}">
+        <Coords points="512,1205 510,1224 775,1221 939,1234 1037,1224 1048,1234 1110,1224 1137,1234 1323,1224 1548,1234 1575,1224 1583,1234 1589,1236 1704,1236 1733,1221 1735,1180 1698,1167 1689,1167 1673,1178 1383,1167 1298,1178 1223,1167 1218,1167 1200,1178 1187,1167 1083,1178 1068,1167 1018,1178 1002,1167 993,1167 964,1178 939,1167 856,1178 839,1167 829,1167 814,1178 783,1165 543,1176 512,1165 512,1205"/>
+        <Baseline points="513,1207 824,1203 1127,1210 1736,1211"/>
+        <TextEquiv>
+          <Unicode>deleau Iaq̃t garreau Iaq̃t denefle colas dreux oliũ peigne cardin le</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3be8c83f" custom="structure {type:default;}">
+        <Coords points="510,1253 508,1290 664,1290 702,1269 766,1292 975,1294 1033,1273 1108,1273 1125,1290 1133,1290 1173,1276 1308,1276 1360,1301 1418,1301 1418,1298 1460,1278 1514,1276 1516,1259 1514,1230 1370,1230 1360,1217 1352,1217 1327,1228 1300,1213 1179,1226 1150,1213 1143,1213 1118,1224 1108,1211 789,1221 754,1207 510,1217 510,1253"/>
+        <Baseline points="512,1254 718,1250 1518,1261"/>
+        <TextEquiv>
+          <Unicode>segnr̃ gillet leroy et plußs aut̃s bourg̃ et habitꝭ de lađ uille</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f5ea4d72"  custom="structure {type:text;}">
+      <Coords points="1101,1323 1496,1352 1723,1337 1779,1376 1779,1619 1729,1676 1751,1830 1690,1876 1757,1931 1762,2013 1790,2048 1768,2185 1673,2224 1347,2213 1290,2241 1207,2224 864,2246 616,2230 576,2135 570,2049 473,2047 477,1974 478,1316 735,1313"/>
+      <TextLine id="eSc_line_9cd66db3" custom="structure {type:default;}">
+        <Coords points="1758,1365 1720,1340 1587,1357 1564,1346 1545,1348 1533,1355 1258,1351 1237,1332 1212,1330 1143,1338 1131,1326 962,1326 933,1342 868,1342 839,1319 766,1330 668,1315 510,1326 510,1388 558,1375 818,1380 908,1403 914,1403 914,1400 929,1390 943,1400 952,1400 1000,1386 1081,1405 1100,1388 1166,1409 1281,1396 1333,1413 1637,1419 1660,1409 1708,1421 1768,1400 1770,1373 1758,1365"/>
+        <Baseline points="512,1364 714,1360 1113,1373 1408,1394 1772,1391"/>
+        <TextEquiv>
+          <Unicode>Pour eslire aucunes gens de lađ uille pour enuoier a poitiers a lassẽbler</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79da1a7b" custom="structure {type:default;}">
+        <Coords points="1273,1384 1270,1384 1175,1394 1156,1380 1154,1380 1152,1380 1150,1380 1148,1380 1108,1392 1052,1375 1050,1375 1048,1375 1045,1375 993,1388 933,1371 931,1371 929,1371 927,1371 891,1384 877,1371 877,1369 875,1369 872,1369 697,1363 695,1363 693,1363 658,1375 627,1361 625,1361 622,1361 620,1361 585,1373 510,1371 510,1400 508,1421 579,1417 639,1430 641,1430 754,1423 814,1436 816,1436 870,1428 933,1440 1748,1465 1752,1436 1752,1409 1343,1403 1275,1384 1273,1384"/>
+        <Baseline points="512,1401 789,1404 1407,1436 1753,1437"/>
+        <TextEquiv>
+          <Unicode>ordonñ ꝑ le roy nrẽ ße le XXIXᵉ Iour de ce mois pour ou ⁊et aiant puisß de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6046eee5" custom="structure {type:default;}">
+        <Coords points="512,1438 510,1450 568,1473 570,1473 572,1473 679,1459 750,1473 752,1473 818,1465 843,1484 845,1484 847,1484 850,1484 852,1484 900,1469 962,1482 964,1482 1075,1475 1131,1494 1133,1494 1135,1494 1233,1480 1291,1500 1293,1500 1295,1500 1429,1490 1452,1505 1454,1505 1456,1505 1541,1509 1543,1509 1606,1494 1623,1511 1623,1513 1625,1513 1627,1513 1677,1515 1679,1515 1681,1515 1731,1496 1733,1477 1733,1448 512,1409 512,1438"/>
+        <Baseline points="513,1440 846,1448 1444,1477 1734,1480"/>
+        <TextEquiv>
+          <Unicode>consentir ⟦cec⟧ ce que ßa conseille ⁊ delibẽ a lađ assemblee laq̃lle a este</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2dcdd2ae" custom="structure {type:default;}">
+        <Coords points="508,1515 537,1507 552,1517 560,1517 589,1502 772,1505 866,1527 1014,1521 1037,1534 1164,1534 1181,1521 1183,1505 1181,1473 1104,1473 1073,1461 1033,1471 993,1459 860,1467 833,1455 787,1465 779,1455 708,1461 695,1450 689,1450 558,1459 508,1448 508,1484"/>
+        <Baseline points="509,1486 774,1489 938,1504 1185,1507"/>
+        <TextEquiv>
+          <Unicode>Reunie de montlucon du XXIIᵉ Ioʳ duđ mois</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d069807" custom="structure {type:default;}">
+        <Coords points="504,1592 558,1592 604,1611 612,1611 629,1594 752,1607 775,1598 812,1615 818,1615 847,1600 895,1619 902,1619 952,1600 975,1617 1162,1604 1212,1629 1320,1629 1339,1617 1383,1632 1600,1636 1639,1619 1723,1638 1768,1625 1770,1559 1743,1546 1687,1561 1668,1544 1577,1542 1570,1542 1539,1563 1300,1561 1281,1546 1202,1557 1168,1534 1050,1534 1027,1552 1004,1534 995,1534 960,1552 906,1552 847,1534 750,1544 731,1530 731,1527 722,1527 679,1544 589,1532 556,1540 508,1519 504,1592"/>
+        <Baseline points="507,1573 634,1572 828,1583 1113,1587 1417,1604 1772,1601"/>
+        <TextEquiv>
+          <Unicode>Et aussi pour aduiser se on fera Reũence et doin a monßʳ de Richemont leq̃l</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ff457e7" custom="structure {type:default;}">
+        <Coords points="1108,1586 825,1594 650,1579 647,1579 504,1588 504,1615 502,1632 597,1632 614,1646 614,1648 616,1648 618,1648 620,1648 622,1648 656,1632 700,1632 720,1650 722,1650 725,1650 727,1650 925,1642 989,1654 991,1654 1154,1636 1156,1625 1156,1598 1116,1586 1108,1586"/>
+        <Baseline points="506,1616 689,1615 850,1625 1158,1627"/>
+        <TextEquiv>
+          <Unicode>doit au Iourduy arriuer en ceste uille</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f77d3218" custom="structure {type:default;}">
+        <Coords points="487,1706 485,1731 577,1721 612,1738 672,1723 714,1740 722,1740 735,1725 793,1725 1033,1744 1085,1734 1102,1748 1110,1748 1135,1736 1156,1746 1245,1738 1264,1752 1606,1759 1620,1748 1641,1763 1712,1763 1714,1736 1712,1694 1593,1694 1583,1679 1345,1688 1248,1671 1173,1679 1164,1669 1158,1669 1089,1679 1056,1667 1000,1679 983,1665 881,1673 814,1663 793,1675 758,1663 710,1673 604,1657 487,1667 487,1706"/>
+        <Baseline points="488,1708 623,1704 928,1709 1179,1719 1382,1736 1715,1737"/>
+        <TextEquiv>
+          <Unicode>par lesquelx boug̃ et hĩtꝭ a este esleu et cõmis Ieh̃ saintier lun desđ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87809133" custom="structure {type:default;}">
+        <Coords points="504,1750 502,1765 512,1777 520,1777 541,1767 593,1777 612,1763 633,1779 691,1765 706,1781 716,1781 733,1767 945,1769 989,1786 998,1786 1014,1773 1093,1773 1143,1790 1152,1790 1170,1777 1248,1792 1283,1783 1318,1794 1683,1798 1687,1779 1685,1744 1298,1742 1198,1723 1108,1734 906,1717 829,1725 812,1715 733,1725 695,1713 504,1719 504,1750"/>
+        <Baseline points="506,1751 1052,1754 1414,1779 1689,1780"/>
+        <TextEquiv>
+          <Unicode>esleuz et ung hoẽ en sa compaigne pour aler auđ lieu de poictiers et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52a0dd49" custom="structure {type:default;}">
+        <Coords points="1679,1779 1250,1777 1223,1765 1123,1771 1070,1754 993,1767 870,1754 493,1761 491,1817 706,1815 722,1829 733,1829 747,1815 783,1827 791,1827 812,1815 877,1815 904,1836 910,1836 1035,1815 1095,1833 1102,1833 1137,1819 1202,1825 1231,1842 1375,1831 1593,1842 1641,1827 1712,1842 1733,1821 1735,1808 1729,1777 1679,1779"/>
+        <Baseline points="495,1793 884,1791 1140,1798 1231,1809 1343,1813 1737,1809"/>
+        <TextEquiv>
+          <Unicode>assemblee / auq̃l saint̃ Ilz ont donñ pouoir de ꝯsentir et acorđ ce q̃ ßa aduise</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ae51ab4" custom="structure {type:default;}">
+        <Coords points="616,1792 614,1792 612,1792 487,1800 487,1831 485,1856 491,1861 493,1861 495,1861 497,1861 666,1850 693,1867 695,1867 697,1867 700,1867 787,1854 820,1867 822,1867 825,1867 827,1867 887,1850 889,1836 889,1804 843,1794 841,1794 839,1794 837,1794 804,1804 768,1794 766,1794 764,1794 762,1794 739,1804 708,1794 706,1794 704,1794 633,1802 618,1792 616,1792"/>
+        <Baseline points="489,1833 891,1837"/>
+        <TextEquiv>
+          <Unicode>⁊ delibẽ a lađ asemblee</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0039807" custom="structure {type:default;}">
+        <Coords points="491,1923 491,1956 529,1946 731,1963 791,1952 864,1965 910,1956 918,1967 1156,1960 1200,1973 1277,1963 1368,1963 1395,1977 1454,1969 1464,1979 1691,1983 1702,1973 1735,1983 1741,1952 1737,1923 1610,1904 1414,1915 1393,1898 1281,1894 1212,1910 1187,1894 1106,1904 1079,1890 1023,1906 977,1888 923,1904 743,1902 714,1881 704,1881 677,1898 570,1898 543,1877 491,1877 491,1923"/>
+        <Baseline points="492,1924 645,1927 861,1941 1536,1956 1743,1953"/>
+        <TextEquiv>
+          <Unicode>este aussi appoincte ꝑ lesđ bourg̃ et hĩtꝭ en la pnc̃e de maist̃s Ieh̃ dupuy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_446fbf27" custom="structure {type:default;}">
+        <Coords points="1458,1954 1450,1954 1433,1965 1389,1954 1300,1963 1283,1950 1185,1960 1170,1950 1002,1958 856,1944 850,1944 833,1954 718,1954 708,1942 495,1948 493,1996 525,1996 539,2010 547,2010 575,1998 710,1998 1114,2019 1141,2004 1173,2019 1210,2006 1241,2021 1285,2010 1314,2023 1506,2017 1573,2027 1606,2015 1637,2025 1714,2010 1714,1969 1498,1956 1475,1965 1458,1954"/>
+        <Baseline points="496,1976 731,1978 971,1992 1718,1999"/>
+        <TextEquiv>
+          <Unicode>et ꝑre de la bruere chañ demonßʳ ßt m̃t q̃ auđ seignr̃ de Richemont</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c787058c" custom="structure {type:default;}">
+        <Coords points="1773,2031 1768,2017 1739,2023 1643,2008 1589,2021 1539,2021 1516,2004 1439,2017 1325,2015 1306,2000 1241,2010 1212,1996 1206,1996 1181,2008 1137,1994 1131,1994 1106,2006 1037,1994 993,2004 923,2004 900,1987 831,1998 704,1983 606,1994 583,1979 531,1992 506,1979 502,2050 631,2040 656,2052 664,2052 677,2042 787,2042 806,2062 879,2048 987,2067 1035,2050 1054,2069 1154,2054 1352,2077 1500,2081 1552,2065 1570,2083 1577,2083 1668,2069 1733,2085 1766,2071 1791,2075 1795,2048 1793,2012 1773,2015 1773,2031"/>
+        <Baseline points="505,2023 720,2024 1333,2048 1675,2049 1796,2049"/>
+        <TextEquiv>
+          <Unicode>ansi q̃l aꝑptꝭ ꝑ ⟦laid⟧ et doin de poisson Iusq̃s a XXV. ou XXX ƚ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80e5c865" custom="structure {type:default;}">
+        <Coords points="568,2069 566,2081 577,2089 662,2081 679,2094 804,2089 856,2100 887,2089 923,2102 968,2092 1141,2110 1198,2100 1352,2104 1366,2119 1445,2110 1548,2125 1768,2123 1770,2100 1768,2067 1606,2073 1541,2058 1483,2069 1314,2065 1256,2048 1250,2048 1229,2058 1187,2048 1062,2052 1029,2040 983,2050 912,2035 800,2044 741,2029 568,2029 568,2069"/>
+        <Baseline points="569,2070 671,2067 1579,2101 1772,2102"/>
+        <TextEquiv>
+          <Unicode>tout ainsi q̃ monßʳ le chancelier qui est en sa compaignie ordonñ / et poʳ faire</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d6d1914" custom="structure {type:default;}">
+        <Coords points="1400,2106 1243,2092 1168,2102 1125,2089 983,2098 973,2085 854,2083 841,2094 575,2077 572,2142 647,2133 835,2135 852,2150 914,2139 929,2152 1000,2154 1150,2144 1177,2146 1185,2156 1248,2146 1264,2160 1541,2154 1639,2169 1733,2154 1735,2142 1731,2102 1641,2112 1568,2102 1464,2108 1443,2096"/>
+        <Baseline points="577,2117 803,2119 1161,2134 1737,2144"/>
+        <TextEquiv>
+          <Unicode>õmandacoñ ont este esleuz et noẽz monßʳ lofficial de tours maist̃ Ieh̃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0951268c" >
+        <Coords points="1187,2135 1166,2135 1145,2133 1125,2133 1104,2131 1104,2148 1102,2167 1123,2169 1141,2169 1187,2162 1189,2150 1187,2135 1187,2135"/>
+        <Baseline points="1106,2149 1191,2152"/>
+        <TextEquiv>
+          <Unicode>maist̃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bbc1d290" custom="structure {type:default;}">
+        <Coords points="1095,2162 1097,2139 597,2127 597,2200 639,2179 693,2179 710,2191 862,2181 1116,2210 1206,2200 1223,2210 1231,2210 1275,2194 1304,2204 1312,2204 1327,2191 1416,2208 1491,2194 1518,2214 1529,2214 1550,2200 1620,2219 1743,2204 1745,2183 1743,2154 1208,2146 1191,2165"/>
+        <Baseline points="600,2159 1011,2164 1128,2174 1748,2184"/>
+        <TextEquiv>
+          <Unicode>s maist̃ lienart champenays Iourdan morin ou lun deulx et en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c68159ad" custom="structure {type:default;}">
+        <Coords points="633,2206 633,2229 656,2241 658,2241 760,2244 762,2244 764,2244 766,2244 785,2229 862,2241 864,2241 866,2241 868,2241 868,2239 883,2225 925,2225 991,2241 993,2241 995,2241 998,2241 1035,2223 1035,2202 1033,2177 993,2164 991,2164 989,2164 827,2177 631,2169 633,2206"/>
+        <Baseline points="634,2207 1036,2203"/>
+        <TextEquiv>
+          <Unicode>esus guion farineau</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c2d5c41f"  custom="structure {type:DamageZone;}">
+      <Coords points="83,1828 59,2175 65,2369 132,2416 403,2417 521,2421 627,2431 695,2436 741,2447 690,2240 653,2233 570,2128 573,2046 435,2083 180,2005"/>
+    </TextRegion>
+  </Page>
+</PcGts>
