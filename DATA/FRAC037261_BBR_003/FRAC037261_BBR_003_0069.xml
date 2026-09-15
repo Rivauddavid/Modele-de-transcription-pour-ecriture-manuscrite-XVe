@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-02-10T07:58:39.320488+00:00</Created>
+        <LastChange>2026-07-23T09:33:04.496700+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAC037261_BBR_003_0069.jpg" imageWidth="1862" imageHeight="2522">
+    <TextRegion id="eSc_textblock_308fa709"  custom="structure {type:text;}">
+      <Coords points="1239,212 1793,218 1815,246 1804,346 1782,396 1738,402 1725,424 1804,465 1821,559 1725,587 527,587 527,224 1239,212"/>
+      <TextLine id="eSc_line_84805769" custom="structure {type:default;}">
+        <Coords points="657,221 647,221 601,228 591,222 587,222 573,222 559,222 545,222 531,222 531,252 531,280 685,271 709,283 710,283 712,283 824,274 848,281 849,281 851,281 852,281 887,270 940,284 942,284 943,284 992,276 1152,285 1153,285 1217,273 1256,287 1257,287 1259,288 1303,288 1303,287 1305,287 1332,274 1392,287 1393,287 1446,276 1612,276 1707,277 1738,290 1740,290 1741,290 1742,290 1791,276 1793,262 1790,236 1758,236 1731,221 1730,221 1728,221 1727,221 1653,226 1577,219 1575,219 1508,231 1486,219 1484,219 1346,218 1344,218 1343,218 1294,233 1253,217 1252,217 1250,217 1142,232 1099,221 1097,221 1096,221 1095,221 1071,232 1029,222 1027,222 1026,222 999,231 713,231 664,221 657,221"/>
+        <Baseline points="531,252 1793,262"/>
+        <TextEquiv>
+          <Unicode>Item ⁊ au segont point quelle est assez a c̃tenee des piller̃ et roberies des gens</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_39aeb6c6" custom="structure {type:default;}">
+        <Coords points="538,300 536,327 631,319 656,332 658,332 660,332 793,325 843,336 845,336 921,323 1051,340 1054,340 1157,332 1188,342 1190,342 1192,342 1195,342 1224,329 1264,344 1266,344 1268,344 1577,336 1792,353 1796,329 1796,296 1685,281 1683,281 1375,287 1264,273 1262,273 1054,281 1024,269 1022,269 1020,269 967,279 929,266 927,266 925,266 923,266 900,277 812,264 810,264 807,264 805,264 786,275 538,271 538,300"/>
+        <Baseline points="539,301 1144,315 1542,313 1798,330"/>
+        <TextEquiv>
+          <Unicode>darmes ftẽs ouđ pais et des charges de lađ uille ⁊ que sur ce elle donnera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ed8c8a9" custom="structure {type:default;}">
+        <Coords points="541,354 539,382 785,382 786,357 785,332 736,323 734,323 670,329 636,320 635,320 633,320 541,327 541,354"/>
+        <Baseline points="541,354 786,357"/>
+        <TextEquiv>
+          <Unicode>bref prouision</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ccec11e7" custom="structure {type:default;}">
+        <Coords points="1800,472 1782,453 1739,466 1697,447 1542,462 1493,443 1380,458 1352,441 1344,441 1312,458 1237,458 1079,453 1047,432 1039,432 995,449 892,437 849,447 797,447 755,426 633,439 622,426 540,422 538,498 654,487 776,489 795,504 864,493 881,508 936,495 965,510 1001,500 1110,512 1131,500 1178,512 1220,500 1277,519 1439,519 1453,508 1466,521 1472,521 1550,508 1580,523 1683,510 1807,525 1811,495 1807,449 1800,449 1800,472"/>
+        <Baseline points="541,466 680,466 1086,488 1813,497"/>
+        <TextEquiv>
+          <Unicode>Item ⁊ au tiers point que touz̃ Iours elle aura lađ uille ⁊ pais en Recõmendacoñ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7164f292" custom="structure {type:default;}">
+        <Coords points="547,514 544,540 666,542 696,559 704,559 721,546 795,546 858,573 934,559 969,575 978,575 1009,552 1066,577 1256,582 1285,563 1487,586 1525,563 1546,573 1592,565 1615,580 1681,567 1710,592 1718,592 1767,575 1805,582 1809,548 1809,517 1714,506 1622,517 1550,504 1432,512 1373,500 1338,510 1321,498 1314,498 1243,508 1203,495 1096,504 1081,493 969,502 959,489 868,500 666,483 547,489 547,514"/>
+        <Baseline points="548,517 689,518 1086,542 1811,549"/>
+        <TextEquiv>
+          <Unicode>et mectra telle prouion es choß desßđ q̃ lađ uille ⁊ pais de touraine ßont</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca8933bb" custom="structure {type:default;}">
+        <Coords points="541,568 539,588 601,589 621,608 621,609 622,609 623,609 625,610 671,610 671,609 673,609 674,609 674,608 692,591 705,591 706,571 706,547 682,535 681,535 680,535 678,535 640,546 612,546 601,535 601,533 600,533 598,533 597,533 541,543 541,568"/>
+        <Baseline points="541,568 706,571"/>
+        <TextEquiv conf="0.9992035371916634">
+          <Unicode>contens</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
