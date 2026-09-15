@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-02-10T07:58:23.648156+00:00</Created>
+        <LastChange>2026-07-16T08:13:29.799691+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAC037261_BBR_003_0011.jpg" imageWidth="1820" imageHeight="2490">
+    <TextRegion id="eSc_textblock_875082ad"  custom="structure {type:text;}">
+      <Coords points="935,215 1748,221 1770,275 1698,304 1714,381 1698,441 1489,474 1443,507 415,507 420,320 465,226 935,215"/>
+      <TextLine id="eSc_line_544d6363" custom="structure {type:default;}">
+        <Coords points="1678,219 1677,219 1676,219 1634,237 1581,237 1527,218 1526,218 1525,218 1523,218 1483,235 1458,222 1457,222 1456,222 1406,224 1404,224 1403,224 1386,235 1338,222 1336,222 1335,222 1334,222 1303,232 1288,225 1287,225 1285,225 1242,229 1241,229 1240,229 1219,242 1092,237 1090,237 1032,244 993,226 992,226 990,226 829,228 827,228 775,249 707,237 705,237 704,237 703,237 682,251 624,251 599,236 597,236 596,236 595,236 593,236 592,236 566,253 541,253 505,233 503,233 502,233 460,233 459,236 443,276 430,347 475,338 527,304 561,302 704,322 705,322 707,322 755,309 780,320 781,320 783,320 784,320 826,301 867,319 869,319 870,319 1026,316 1028,316 1067,302 1162,315 1163,315 1282,290 1336,309 1338,309 1339,309 1341,309 1392,286 1698,287 1699,287 1757,279 1757,262 1756,249 1749,233"/>
+        <Baseline points="460,283 1112,275 1449,262 1757,262"/>
+        <TextEquiv>
+          <Unicode>A saintblancay et saint xp̃ofle sest charge guion farineau denuoier les lrẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_018ec0ee" custom="structure {type:default;}">
+        <Coords points="450,354 450,392 500,390 502,390 543,367 583,379 585,379 587,379 589,379 591,379 610,367 666,377 668,377 670,377 672,377 691,365 742,388 745,388 747,390 805,390 805,388 807,388 809,388 842,367 867,388 869,388 871,388 873,388 975,373 1000,381 1002,381 1004,381 1006,381 1048,361 1153,361 1172,375 1172,377 1174,377 1176,377 1178,377 1180,377 1214,361 1214,344 1209,305 720,315 680,305 678,305 676,305 448,319 450,354"/>
+        <Baseline points="451,356 683,350 978,349 1082,336 1215,345"/>
+        <TextEquiv>
+          <Unicode>A saincte more sest charge Ieh̃ de brion</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4436c378" custom="structure {type:default;}">
+        <Coords points="450,419 450,462 498,464 504,464 527,441 597,441 653,458 680,450 713,464 722,464 751,441 828,454 896,439 1000,462 1023,444 1085,460 1234,437 1436,437 1460,460 1693,458 1691,379 1629,369 1622,369 1612,377 1595,363 1502,365 1479,383 1440,365 1330,377 1299,365 1292,365 1259,377 1226,365 1114,367 1087,388 913,388 894,369 888,369 798,390 751,390 707,369 643,369 624,385 581,375 574,375 549,388 448,383 450,419"/>
+        <Baseline points="452,420 861,422 1423,413 1694,415"/>
+        <TextEquiv>
+          <Unicode>A pruilly busancoys et mazẽs / les lrẽs ßont bail̃l̃ auđ gõneau</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3d5b802" custom="structure {type:default;}">
+        <Coords points="460,473 460,512 500,512 516,495 595,495 620,510 628,510 666,495 774,495 790,512 798,512 836,500 857,510 865,510 890,493 917,504 948,495 977,512 1126,512 1166,493 1195,493 1214,510 1324,491 1386,508 1415,500 1415,460 1411,437 1245,427 1211,439 1031,429 940,439 846,429 823,441 649,441 535,431 458,444 460,473"/>
+        <Baseline points="462,475 577,468 1069,474 1417,462"/>
+        <TextEquiv>
+          <Unicode>qui les enuoiera duđ lieu de loches ausđ lieux</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
